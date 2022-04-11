@@ -23,7 +23,7 @@ public class Authentication {
 		Predicate<URI>uriPredicate=uri->uri.getHost().contains("httpbin.org");
 		((HasAuthentication)driver).register(uriPredicate,UsernameAndPassword.of("foo","bar"));
 	driver.get("https://httpbin.org/basic-auth/foo/bar");
-	
+	System.out.println("hello");
 		
 		
 		
