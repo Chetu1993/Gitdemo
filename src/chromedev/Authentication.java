@@ -29,7 +29,7 @@ public class Authentication {
 	System.out.println("water");
 	System.out.println("stones");
 	System.out.println("sand");
-		
+		System.out.println("fire");
 		
 		
 		
