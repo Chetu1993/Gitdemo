@@ -27,6 +27,8 @@ public class Authentication {
 	System.out.println("mountain");
 	System.out.println("river");
 	System.out.println("water");
+	System.out.println("stones");
+	System.out.println("sand");
 		
 		
 		
